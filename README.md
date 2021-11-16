@@ -1,5 +1,7 @@
 # Word-Game
 
+https://ariel-gamers.itch.io/word-game
+
 This project implements the core functionality of the word game - in the game, you will have to give the definition of the word. 
 
 For the core functionality, a random correct word is generated and for demonstration it is shown in green.
